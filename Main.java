@@ -3,8 +3,9 @@ import java .util.Scanner;
 import java.util.ArrayList;
 public class Main {
 public static void main(String[] args) {
-Scanner sc= new Scanner (System.in);
-ArrayList<Library>books = new ArrayList<>();
+Scanner sc= new Scanner (System.in);// hello  i have updated this
+
+ArrayList<Library>books = new ArrayList<>(); 
 int c;
 do {
 System.out.println("***********************");
